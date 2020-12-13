@@ -1405,7 +1405,7 @@ U 1 1 5F75BB86
 P 7550 6200
 F 0 "J7" H 7468 5775 50  0000 C CNN
 F 1 "Conn_01x05" H 7468 5866 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 7550 6200 50  0001 C CNN
+F 2 "TH-XWhatsIt:PinHeader_1x05_P2.54mm_Vertical_no3d" H 7550 6200 50  0001 C CNN
 F 3 "~" H 7550 6200 50  0001 C CNN
 	1    7550 6200
 	-1   0    0    1   
