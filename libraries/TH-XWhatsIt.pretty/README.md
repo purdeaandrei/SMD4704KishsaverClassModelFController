@@ -4,6 +4,8 @@ Except for:
 
 1) PinHeader_2x03_P2.54mm_Vertical_3dhorizontal.kicad_mod:
 2) FAT_LockLightsConnector.kicad_mod:
+3) PinHeader_1x05_P2.54mm_Vertical_no3d.kicad_mod
+4) SolenoidPinheaderNoCourtyard.kicad_mod
 
 These files retain the original KiCad license, since they are based on original KiCad footprints:
 
